@@ -1,12 +1,12 @@
 <h1>WHO am I? 🙃</h1>
  
--  Hi 👋, I’m Hanade :)
+-  Hi there 👋, I’m Hanade :)
 -  I am a computer science student at Birzeit University. 💻
 -  I’m interested in Software development, Hacking and AI. 💞️
 - 🌱 I’m currently learning java and mySQL.
 -  I’m looking to collaborate on Microsoft. 👀
 -  I enjoy codin' 👩‍💻 and Photography. 📸
-  
+-  I am passionate about physiognomy.
 - 📫 How to reach me ?
      Email : hanadezarre6@gmail.com 
 <!---
