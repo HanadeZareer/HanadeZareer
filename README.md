@@ -12,7 +12,7 @@
 ### 👩‍💻 About Me
 - 🎓 Computer Science Graduate – Birzeit University  
 - 💻 Interested in Software Development & AI  
-- 🌱 Currently learning **Java & MySQL**  
+- 🌱 Currently learning **REST APIs** and exploring **Data Science** 
 - 🤝 Open to collaboration on interesting projects  
 - 📫 Reach me at: **hanadezareer6@gmail.com**  
 - 📸 I enjoy coding & photography  
